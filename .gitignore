@@ -1,0 +1,28 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 🧪 Test-/Build-/Distribution-Ordner
+build/
+dist/
+*.egg-info/
+
+# 📦 Virtuelle Umgebungen
+.venv/
+venv/
+ENV/
+env/
+
+# 📂 VSCode-Einstellungen
+.vscode/
+
+# 📄 OS-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# 🔑 Schlüssel / sensible Daten (falls vorhanden)
+*.env
+*.secret
